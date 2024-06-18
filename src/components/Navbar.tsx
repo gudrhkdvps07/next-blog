@@ -19,7 +19,7 @@ export default function Navbar() {
       </div>
 
       <div>
-        <Link href="/intro" className="px-2 hover:text-gray-400">
+        <Link href="/Intro" className="px-2 hover:text-gray-400">
           Intro
         </Link>
         <Link href="/project" className="px-2 hover:text-gray-400">
